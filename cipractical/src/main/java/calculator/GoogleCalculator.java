@@ -10,7 +10,7 @@ public class GoogleCalculator {
 			calculationOutput = String.valueOf(outputValue);
 			System.out.println(calculationOutput);
 		}
-		//To Do - other types of calculation
+		//To Do - other types of calculation some extra data
 	}
 
 	public String getResult() {
